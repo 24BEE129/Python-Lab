@@ -1,0 +1,5 @@
+print("Name:Maitrak Barot")
+print("Roll no.:24BEE129")
+c=int(input("Enter temp in Celsius:"))
+f=(c*9/5)+32
+print("Fahrenheit:",f)
